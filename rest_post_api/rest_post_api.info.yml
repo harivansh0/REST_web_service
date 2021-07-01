@@ -1,0 +1,5 @@
+name: Custom Rest API  post method
+discription: Rest api with post method 
+type: module
+package : REST post method
+core_version_requirement: ^9.1
