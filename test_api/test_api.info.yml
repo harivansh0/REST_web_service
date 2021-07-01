@@ -1,0 +1,6 @@
+name: Rest Test API
+type: module
+description: RESTful API module with GET/POST/PUT/DELETE
+package: REST
+core_version_requirement: ^9.1
+
